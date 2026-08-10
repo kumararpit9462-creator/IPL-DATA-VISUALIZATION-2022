@@ -35,31 +35,38 @@ The Indian Premier League (IPL) is a professional T20 cricket league in India, f
 ## Visualizations
 
 **Most Match Wins by Team**
-![Most Match Wins by Team]<img width="624" height="434" alt="most match win" src="https://github.com/user-attachments/assets/fabea77d-fef8-44bf-bead-ae25095cd3f1" />
+![Most Match Wins by Team]
+<img width="624" height="434" alt="most match win" src="https://github.com/user-attachments/assets/fabea77d-fef8-44bf-bead-ae25095cd3f1" />
 
 
 **Toss Decision Trends**
-![Toss Decision Trends]<img width="563" height="454" alt="toss desicion trend" src="https://github.com/user-attachments/assets/8b8fc53b-0d60-4c6b-bc16-9454dd23506e" />
+![Toss Decision Trends]
+<img width="563" height="454" alt="toss desicion trend" src="https://github.com/user-attachments/assets/8b8fc53b-0d60-4c6b-bc16-9454dd23506e" />
 
 
 **Matches Won By (Runs / Wickets)**
-![Won By Type]<img width="563" height="454" alt="team winning by" src="https://github.com/user-attachments/assets/f29006f1-7f84-429f-a979-8ad1499c0390" />
+![Won By Type]
+<img width="563" height="454" alt="team winning by" src="https://github.com/user-attachments/assets/f29006f1-7f84-429f-a979-8ad1499c0390" />
 
 
 **Top 10 Players of the Match**
-![Top Players of the Match]<img width="689" height="413" alt="player of the match trend" src="https://github.com/user-attachments/assets/48aba9ac-5ee5-433b-bb0c-9410753f2284" />
+![Top Players of the Match]
+<img width="689" height="413" alt="player of the match trend" src="https://github.com/user-attachments/assets/48aba9ac-5ee5-433b-bb0c-9410753f2284" />
 
 
 **Top Run-Scorers**
-![Top Scorers]<img width="552" height="534" alt="top scorer" src="https://github.com/user-attachments/assets/b8181064-b2d6-4ce9-99c2-7a98f2381b6d" />
+![Top Scorers]
+<img width="552" height="534" alt="top scorer" src="https://github.com/user-attachments/assets/b8181064-b2d6-4ce9-99c2-7a98f2381b6d" />
 
 
 **Top Bowling Figures**
-![Top Bowling Figures]<img width="689" height="413" alt="best bowlers" src="https://github.com/user-attachments/assets/4147478d-63c2-44ff-8995-7945a014144a" />
+![Top Bowling Figures]
+<img width="689" height="413" alt="best bowlers" src="https://github.com/user-attachments/assets/4147478d-63c2-44ff-8995-7945a014144a" />
 
 
 **Most Matches Played by Venue**
-![Most Matches by Venue]<img width="875" height="413" alt="most match played by venue" src="https://github.com/user-attachments/assets/08fb5659-ce45-4d6c-800f-fcf60c6f20b9" />
+![Most Matches by Venue]
+<img width="875" height="413" alt="most match played by venue" src="https://github.com/user-attachments/assets/08fb5659-ce45-4d6c-800f-fcf60c6f20b9" />
 
 
 ## Tech Stack
